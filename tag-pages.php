@@ -39,7 +39,7 @@ if( ! function_exists('tagpages_register_taxonomy') ){
     {
         register_taxonomy_for_object_type('post_tag', 'page');
     }
-    add_action('admin_init', 'tag2pages_register_taxonomy');
+    add_action('admin_init', 'tagpages_register_taxonomy');
 }
 
 /**
@@ -55,6 +55,6 @@ if( ! function_exists('tagpages_display_tagged_pages_archive') ){
             $q['post_type'] = 'any';
         }
     }
-    add_action('pre_get_posts', 'setup_query_vars_for_posts');
+    add_action('pre_get_posts', 'tagpages_display_tagged_pages_archive');
 }
 ?>
