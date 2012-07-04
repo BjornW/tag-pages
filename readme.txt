@@ -10,11 +10,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Add tags to Pages, just as you would do with Posts 
 
 == Description ==
-This plugin adds the 'post_tag' taxonomy to the Page post type. This enables
-the tags metabox in the new or edit Page interface and allows you to add tags
-to a Page just as you would do with a Post. To show tagged Pages on a tags 
-archive page it uses the 'pre_get_posts' hook to change the post_type query 
-parameter to 'any'. 
+Add tags to a Page just as you would do with a Post. 
+
+This plugin adds the 'post_tag' taxonomy to the Page post type. 
+This enables the tags metabox in the New or Edit Page interface. To show tagged 
+Pages on a tags archive page or in a feed, it uses the 'pre_get_posts' hook
+to change the post_type query parameter to 'any'. 
 
 The plugin has no settings, does not alter the database and only uses hooks to 
 achieve it's goal. It also should work perfectly fine with Multisite installations.
