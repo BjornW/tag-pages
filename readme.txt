@@ -20,6 +20,10 @@ to change the post_type query parameter to 'any'.
 The plugin has no settings, does not alter the database and only uses hooks to 
 achieve it's goal. It also should work perfectly fine with Multisite installations.
 
+== Screenshots ==
+
+1. A screenshot of the WordPress backend Pages section with the Tags metabox marked red.
+
 == Installation ==
 1. Upload the `tag-pages` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
