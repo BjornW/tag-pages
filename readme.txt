@@ -31,13 +31,11 @@ achieve it's goal. It also should work perfectly fine with Multisite installatio
 
 == Notes == 
 
-Credits WordPress repository header image: 
+Credits WordPress repository header image found in /assets: 
 
-'Crew Baggage Tag'
-http://www.flickr.com/photos/sdasmarchives/7467520412/
+['Crew Baggage Tag'](http://www.flickr.com/photos/sdasmarchives/7467520412/)
 
 From the Leslie Grimes Moser Photo set. Moser was a flight attendant for Capitol Airlines.
 Repository: San Diego Air and Space Museum Archive
 
-Thanks San Diego Air and Space Museum Archive & Flickr Commons - flickr.com/commons 
- 
+Thanks San Diego Air and Space Museum Archive & Flickr Commons - flickr.com/commons
