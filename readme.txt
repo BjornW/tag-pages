@@ -28,3 +28,16 @@ achieve it's goal. It also should work perfectly fine with Multisite installatio
 1. Upload the `tag-pages` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Done!
+
+== Notes == 
+
+Credits WordPress repository header image: 
+
+'Crew Baggage Tag'
+http://www.flickr.com/photos/sdasmarchives/7467520412/
+
+From the Leslie Grimes Moser Photo set. Moser was a flight attendant for Capitol Airlines.
+Repository: San Diego Air and Space Museum Archive
+
+Thanks San Diego Air and Space Museum Archive & Flickr Commons - flickr.com/commons 
+ 
