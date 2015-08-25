@@ -31,8 +31,15 @@ achieve it's goal. It also should work perfectly fine with Multisite installatio
 
 == Notes == 
 
-Credits WordPress repository header image found in /assets: 
+Credits: 
 
+Tag icon used in the WordPress plugin repository and found in /assets/icon*
+From the series ['Flat Shadows'](http://www.toicon.com/series/flat-shadows) By [Shannon E Thomas](http://www.toicon.com/authors/1)
+
+Thanks Shannon E Thomas and to[icon] for sharing your work!
+
+
+WordPress repository header image found in /assets: 
 ['Crew Baggage Tag'](http://www.flickr.com/photos/sdasmarchives/7467520412/)
 
 From the Leslie Grimes Moser Photo set. Moser was a flight attendant for Capitol Airlines.
