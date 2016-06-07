@@ -50,7 +50,7 @@ if( ! function_exists('tagpages_register_taxonomy') ){
 if( ! function_exists('tagpages_display_tagged_pages_archive') ){
     function tagpages_display_tagged_pages_archive(&$query)
     {
-        if ( $query->is_archive && $query->is_tag ) {
+        if ( !is_admin() && $query->is_archive && $query->is_tag ) {
             $q = &$query->query_vars;
             $q['post_type'] = 'any';
         }
