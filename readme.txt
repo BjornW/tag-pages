@@ -2,7 +2,7 @@
 Contributors: BjornW
 Tags: tags, pages, tag pages
 Requires at least: 3.0
-Tested up to: 4.3
+Tested up to: 4.5.2
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -46,3 +46,11 @@ From the Leslie Grimes Moser Photo set. Moser was a flight attendant for Capitol
 Repository: San Diego Air and Space Museum Archive
 
 Thanks San Diego Air and Space Museum Archive & Flickr Commons - flickr.com/commons
+
+== Changelog ==
+
+#### 1.0.1 - June 21, 2016
+
+**Fixes**
+
+- Unable to save bulk edit of tag filtered posts in wp-admin.
