@@ -29,6 +29,14 @@ achieve it's goal. It also should work perfectly fine with Multisite installatio
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Done!
 
+== Frequently Asked Questions ==
+= Tags are not displayed? =
+If you don't see the tags of tagged Pages, make sure your theme supports displaying tags for Pages. 
+This plugin does nothing to make tags appear on your website. Tag Pages makes it possible to add tags to your Pages in the WordPress database.  
+It is your theme's responsibility to display tags (if any) on your website. Make sure the theme you are using supports displaying tags on Pages.
+
+
+
 == Notes == 
 
 Credits: 
