@@ -3,7 +3,7 @@
 Plugin Name: Tag Pages
 Plugin URI: http://burobjorn.nl
 Description: Add tags to Pages, just as you would do with Posts
-Version: 1.0.1
+Version: 1.0.2
 Author: Bjorn Wijers <burobjorn at burobjorn dot nl>
 Author URI: http://burobjorn.nl
 License: GPLv2 or later
