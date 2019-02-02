@@ -39,7 +39,7 @@ if( ! function_exists('tagpages_register_taxonomy') ){
     {
         register_taxonomy_for_object_type('post_tag', 'page');
     }
-    add_action('admin_init', 'tagpages_register_taxonomy');
+    add_action('init', 'tagpages_register_taxonomy');
 }
 
 /**
