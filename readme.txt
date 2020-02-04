@@ -26,6 +26,7 @@ please consider a donation to one of these organisations or your country's equiv
   - <a href='https://www.msf.org/'>Medicines Sans Frontiers</a> 
   - <a href='https://fsfe.org'>Free Software Foundation Europe</a>
   - <a href='https://https://www.bitsoffreedom.nl/english/'>Bits of Freedom</a>
+  - <a href='https://edri.org/'>European Digital Rights (EDRi)</a> 
   - <a href='https://fsf.org'>Free Software Foundation</a>
   - <a href='https://eff.org'>Electronic Frontier Foundation</a>
 
@@ -50,6 +51,13 @@ It is your theme's responsibility to display tags (if any) on your website. Make
 Yes, <a href='https://wordpress.org/gutenberg/'>the Gutenberg block editor</a> is supported from version 1.0.2 and upwards. 
 NB: The <a href='https://wordpress.org/plugins/classic-editor/'>Classic Editor</a> plugin is also supported.
 
+= Is this plugin actively being developed? =
+Yes and no. Let me explain: 
+I consider this plugin to be feature complete and unless bugs are found there will be no development on this plugin. In other words this plugin is in maintenance mode and will be maintained for the foreseeable future. 
+Due to other obligations I'm not always able to keep up with WordPress version's and updating this readme's 'Tested up to' version number. 
+However, unless WordPress significantly changes the way taxonomies work (and breaking backwards compatibility in the process) this plugin should continue to work fine even though the 'Tested up to' might be of a lower version number. 
+As always, when in doubt, test it :) (and when it does give you issues, feel free to leave a comment). 
+
 
 == Notes == 
 
@@ -70,6 +78,9 @@ Repository: San Diego Air and Space Museum Archive
 Thanks San Diego Air and Space Museum Archive & Flickr Commons - flickr.com/commons
 
 == Changelog ==
+
+#### 1.0.2 - feb 4, 2020 
+- No changes in the code (so the version is the same), just added a clarification on the status of this plugin in the readme.
 
 #### 1.0.2 - Feb 2, 2019
 
