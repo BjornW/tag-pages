@@ -1,11 +1,11 @@
 <?php
 /******************************************************************************
 Plugin Name: Tag Pages
-Plugin URI: http://burobjorn.nl
+Plugin URI: https://burobjorn.nl
 Description: Add tags to Pages, just as you would do with Posts
 Version: 1.0.2
 Author: Bjorn Wijers <burobjorn at burobjorn dot nl>
-Author URI: http://burobjorn.nl
+Author URI: https://burobjorn.nl
 License: GPLv2 or later
 ******************************************************************************/
 
